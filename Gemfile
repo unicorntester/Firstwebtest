@@ -5,4 +5,4 @@ gem "watir"
 gem "watir-rspec"
 gem "webdrivers"
 gem "faker"
-
+gem "pry"
